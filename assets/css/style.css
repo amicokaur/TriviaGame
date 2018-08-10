@@ -1,0 +1,30 @@
+html,body {
+    font-family:  'lato', sans-serif 
+        height:100%;
+
+}
+body {
+    margin-left: 10px;
+    background : rgb(0, 128, 96);
+    text-align: center;
+}
+
+h1{
+    font-family: 'Aclonica', sans-serif;
+    font-size: 4.5em;
+    font-weight: bold;
+    color:rgb(208, 255, 0);
+    padding-top: 2.5%;
+  }
+
+  #wrapper{
+    margin:2.5% auto;
+    background-color: rgba(40, 252, 252, 0.83);
+    width:960px;
+    height: 95%;
+    box-sizing: border-box;
+  }
+  #subwrapper{
+    position: relative;
+  }
+  
